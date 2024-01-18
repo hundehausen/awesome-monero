@@ -28,6 +28,7 @@ A curated list of awesome Monero libraries, tools, and resources.
 - [Official Twitter](https://twitter.com/monero)
 - [Official Reddit](https://www.reddit.com/r/Monero/)
 - [Unofficial Docs](https://docs.monero.study/)
+- [Monero Research Lab](https://github.com/monero-project/research-lab)
 
 - [Implementing Seraphis](https://raw.githubusercontent.com/UkoeHB/Seraphis/master/implementing_seraphis/Impl-Seraphis-0-0-2.pdf)
 - [RandomX](https://github.com/tevador/RandomX) - RandomX is a proof-of-work (PoW) algorithm that is optimized for general-purpose CPUs.
@@ -36,6 +37,7 @@ A curated list of awesome Monero libraries, tools, and resources.
 ### Books
 
 - [Mastering Monero](https://github.com/monerobook/monerobook) - "Mastering Monero: The future of private transactions" is your guide through the world of Monero, a leading cryptocurrency with a focus on private and censorship-resistant transactions. This book contains everything you need to know to start using Monero in your business or day-to-day life, even if you've never understood or interacted with cryptocurrencies before.
+- [monero-book](https://github.com/Cuprate/monero-book) - This book aims to document the Monero protocol. Currently, work is being done to document Monero's consensus rules. This being completed as a part of [Cuprate](https://github.com/Cuprate/cuprate), the Rust Monero node. ([Website](https://monero-book.cuprate.org/))
 
 ## Wallets
 
@@ -47,16 +49,19 @@ A curated list of awesome Monero libraries, tools, and resources.
 
 ### Mobile Wallets
 
-- [Monerujo](https://monerujo.io/) - Popular Android wallet
-- [Cake Wallet](https://cakewallet.io/) - Popular iOS wallet
+- [Cake Wallet](https://github.com/cake-tech/cake_wallet) - Popular iOS wallet
+- [Monerujo](https://github.com/m2049r/xmrwallet) - Popular Android wallet
 - [Stack Wallet](https://github.com/cypherstack/stack_wallet) - A multicoin, cryptocurrency wallet 
 - [ANONERO](http://anonero.io/) - Hardened wallet with enforced privacy & security (Onion link)
 
-## Hardware Wallets
+### Hardware Wallets
 
 - [Kastelo](https://github.com/monero-project/kastelo) - This is the project to create an official Monero Hardware Wallet (Dead project)
 - [passport2-monero](https://github.com/mjg-foundation/passport2-monero) - v2.x.x series of firmware for Passport, rebuilt for monero 
 - [MoneroSigner](https://github.com/Monero-HackerIndustrial/MoneroSigner) - Seedsigner Monero fork. Use an air-gapped Raspberry Pi Zero to sign monero transactions!
+
+### Other Wallets
+[Monero Subscriptions Wallet](https://github.com/lukeprofits/Monero_Subscriptions_Wallet) - A Monero wallet that automatically pays subscriptions.
 
 ## Libraries
 
@@ -66,6 +71,7 @@ A curated list of awesome Monero libraries, tools, and resources.
 - [monero-rpc-php](https://github.com/refring/monero-rpc-php) - Monero daemon and wallet RPC client library written in modern PHP.
 - [monero-java](https://github.com/woodser/monero-java) - Java library for using Monero 
 - [monero-rs](https://github.com/monero-rs/monero-rs) - Library with support for de/serialization on block data structures and key/address generation and scanning related to Monero cryptocurrency.
+- [libmonero](https://github.com/monumexyz/libmonero) - libmonero is a library for the Monero cryptocurrency written in Rust. It is designed to be fast, safe and easy to use.
 - [monero-cpp](https://github.com/woodser/monero-cpp) - C++ library for using Monero
 - [go-monero-rpc-client](https://github.com/omani/go-monero-rpc-client) - A go client for the Monero wallet and daemon RPC
 - [go-monero](https://github.com/duggavo/go-monero) - A multi-platform Go library for interacting with Monero servers either on clearnet or not, supporting daemon and wallet RPC, p2p commands and ZeroMQ.
@@ -100,6 +106,7 @@ A curated list of awesome Monero libraries, tools, and resources.
 
 - [Bisq](https://bisq.network/) - A decentralized exchange network for trading Monero and other cryptocurrencies.
 - [Haveno](https://github.com/woodser/haveno) - A decentralized, peer-to-peer, non-custodial Monero exchange for trading fiat currencies for Monero.
+- [Serai](https://github.com/serai-dex/serai) - Serai is a new DEX, built from the ground up, initially planning on listing Bitcoin, Ethereum, DAI, and Monero, offering a liquidity-pool-based trading experience. Funds are stored in an economically secured threshold-multisig wallet.
 
 ## Built with Monero
 
@@ -122,12 +129,13 @@ A curated list of awesome Monero libraries, tools, and resources.
 - [ETH-XMR Atomic Swaps](https://github.com/AthanorLabs/atomic-swap) - 💫 ETH-XMR atomic swap implementation
 - [UnstoppableSwap GUI](https://github.com/UnstoppableSwap/unstoppableswap-gui) - Graphical User Interface (GUI) For Trustless Cross-Chain XMR<>BTC Atomic Swaps
 - [BCH-XMR-SWAP PoC](https://github.com/PHCitizen/bch-xmr-swap) - A proof of concept for a Bitcoin Cash to Monero atomic swap
+- [Farcaster Project](https://github.com/farcaster-project) - Farcaster is a cross-chain atomic swap protocol and implementation who allows to exchange Bitcoin and Monero in a peer-to-peer manner with anyone running a Farcaster node.
 
 
 ## Merchants
 
 - [Monero Merchants](https://www.monerooutreach.org/stories/monero_merchants.html) - A list of merchants that accept Monero as payment.
-- [Monerica](https://monerica.com/) - A directory for a Monero circular economy
+- [Monerica](https://github.com/monerica-project/monerica) ([Website](https://monerica.com/)) - A directory for a Monero circular economy
 - [Monero for Merchants](https://github.com/ASchmidt1024/monero-for-merchants-booklet) - A printable booklet to attract merchants to accept Monero (multiple languages!)
 
 ## Point of Sale
@@ -138,9 +146,11 @@ A curated list of awesome Monero libraries, tools, and resources.
 - [Monero Merchant](https://github.com/RuiSiang/monero-merchant) - Monero Merchant is a RESTful API wrapper for the official Monero wallet RPC. This project is mainly for merchants who hope to accept Monero as payment.
 - [AcceptXMR](https://github.com/busyboredom/acceptxmr) - This library aims to provide a simple, reliable, and efficient means to track monero payments.
 - [HotShop](https://github.com/CryptoGrampy/HotShop) - An Ephemeral, browser-based, no-private-key, no-server Point of Sale for receiving and validating Monero payments. Repository is archived :(
+- [monerochan-merchant-rpc](https://github.com/spirobel/monerochan-merchant-rpc) - A tool to accept digital cash at your online business.
 
 ## Future development
 
 - [Seraphis](https://github.com/UkoeHB/Seraphis) - Seraphis is a privacy-focused transaction protocol for p2p electronic cash systems (e.g. cryptocurrencies).
 - [Full chain membership proofs](https://github.com/kayabaNerve/full-chain-membership-proofs)
 - [Cuprate](https://github.com/Cuprate/cuprate) - an upcoming experimental, modern & secure monero node. Written in Rust.
+- [wallet3](https://github.com/seraphis-migration/wallet3) - Info and discussions about a hypothetical full 'wallet2' rewrite from scratch 
