@@ -46,10 +46,11 @@ A curated list of awesome Monero libraries, tools, and resources.
 - [Monero GUI Wallet](https://getmonero.org/downloads/) - Official desktop wallet
 - [Feather Wallet](https://github.com/feather-wallet/feather) ([Website](https://featherwallet.org/)) - Lightweight desktop wallet
 - [monero-wallet-generator](https://github.com/moneromooo-monero/monero-wallet-generator) - Self contained offline javacsript Monero wallet generator
+- [Cake Wallet](https://github.com/cake-tech/cake_wallet) - Popular iOS and Android wallet and desktop wallet
 
 ### Mobile Wallets
 
-- [Cake Wallet](https://github.com/cake-tech/cake_wallet) - Popular iOS and Android wallet
+- [Cake Wallet](https://github.com/cake-tech/cake_wallet) - Popular iOS and Android wallet and desktop wallet
 - [Monerujo](https://github.com/m2049r/xmrwallet) - Popular Android wallet
 - [Stack Wallet](https://github.com/cypherstack/stack_wallet) - A multicoin, cryptocurrency wallet 
 - [ANONERO](http://anonero.io/) - Hardened wallet with enforced privacy & security for Android (onion link)
@@ -63,7 +64,7 @@ A curated list of awesome Monero libraries, tools, and resources.
 - [Monero Ledger App](https://github.com/LedgerHQ/app-monero) - Monero wallet application for Ledger Nano S and Nano X. (avoid buying Ledger products)
 
 ### Other Wallets
-[Monero Subscriptions Wallet](https://github.com/lukeprofits/Monero_Subscriptions_Wallet) - A Monero wallet that automatically pays subscriptions.
+- [Monero Subscriptions Wallet](https://github.com/lukeprofits/Monero_Subscriptions_Wallet) - A Monero wallet that automatically pays subscriptions.
 
 ## Libraries
 
