@@ -24,7 +24,7 @@ A curated list of awesome Monero libraries, tools, and resources.
 ## Resources
 
 - [Official Website](https://getmonero.org/)
-- [Official GitHub](httpe://github.com/monero-project/monero)
+- [Official GitHub](https://github.com/monero-project/monero)
 - [Official Twitter](https://twitter.com/monero)
 - [Official Reddit](https://www.reddit.com/r/Monero/)
 - [Unofficial Docs](https://docs.monero.study/)
@@ -59,6 +59,7 @@ A curated list of awesome Monero libraries, tools, and resources.
 - [Kastelo](https://github.com/monero-project/kastelo) - This is the project to create an official Monero Hardware Wallet (Dead project)
 - [passport2-monero](https://github.com/mjg-foundation/passport2-monero) - v2.x.x series of firmware for Passport, rebuilt for monero 
 - [MoneroSigner](https://github.com/Monero-HackerIndustrial/MoneroSigner) - Seedsigner Monero fork. Use an air-gapped Raspberry Pi Zero to sign monero transactions!
+- [Monero Ledger App](https://github.com/LedgerHQ/app-monero) - Monero wallet application for Ledger Nano S and Nano X. (avoid buying Ledger products)
 
 ### Other Wallets
 [Monero Subscriptions Wallet](https://github.com/lukeprofits/Monero_Subscriptions_Wallet) - A Monero wallet that automatically pays subscriptions.
@@ -81,6 +82,7 @@ A curated list of awesome Monero libraries, tools, and resources.
 - [Simple Monerod Docker](https://github.com/sethforprivacy/simple-monerod-docker) - A simple docker image for running a Monero node.
 - [Monero Suite](https://github.com/hundehausen/monero-suite) - Build your personal docker-compose.yml file for Monero services. 
 - [Docker-XMRig](https://github.com/metal3d/docker-xmrig) - Xmrig containeried to mine monero cryptocurrency
+- [Moneroblock Docker](https://github.com/sethforprivacy/moneroblock-docker) - A simple and straightforward Dockerized MoneroBlock built from source and exposing standard ports.
 
 ## Tools
 
@@ -101,6 +103,7 @@ A curated list of awesome Monero libraries, tools, and resources.
 ## Blockchain Explorers
 
 - [Onion Monero Blockchain Explorer](https://github.com/moneroexamples/onion-monero-blockchain-explorer) - A Monero blockchain explorer.
+- [Moneroblock](https://github.com/duggavo/MoneroBlock) -  Decentralized and trustless Monero block explorer
 
 ## Decentralized Exchanges
 
