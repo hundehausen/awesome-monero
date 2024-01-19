@@ -11,9 +11,9 @@ A curated list of awesome Monero libraries, tools, and resources.
 - [Tools](#tools)
 - [Nodes](#nodes)
 - [Blockchain Explorers](#blockchain-explorers)
-- [Decentralized Exchanges](#decentralized-exchanges)
 - [Built with Monero](#build-with-monero)
 - [Mining](#mining)
+- [Decentralized Exchanges](#decentralized-exchanges)
 - [Atomic Swaps](#atomic-swaps)
 - [Integrations](#integrations)
 - [Merchants](#merchants)
@@ -107,12 +107,6 @@ A curated list of awesome Monero libraries, tools, and resources.
 - [Onion Monero Blockchain Explorer](https://github.com/moneroexamples/onion-monero-blockchain-explorer) - A Monero blockchain explorer.
 - [Moneroblock](https://github.com/duggavo/MoneroBlock) -  Decentralized and trustless Monero block explorer
 
-## Decentralized Exchanges
-
-- [Bisq](https://bisq.network/) - A decentralized exchange network for trading Monero and other cryptocurrencies.
-- [Haveno](https://github.com/woodser/haveno) - A decentralized, peer-to-peer, non-custodial Monero exchange for trading fiat currencies for Monero.
-- [Serai](https://github.com/serai-dex/serai) - Serai is a new DEX, built from the ground up, initially planning on listing Bitcoin, Ethereum, DAI, and Monero, offering a liquidity-pool-based trading experience. Funds are stored in an economically secured threshold-multisig wallet.
-
 ## Built with Monero
 
 - [Nerostr](https://github.com/pluja/nerostr) -  nostr paid relay, but with monero
@@ -127,6 +121,13 @@ A curated list of awesome Monero libraries, tools, and resources.
 - [Docker-XMRig](https://github.com/metal3d/docker-xmrig) - Xmrig containeried to mine monero cryptocurrency
 - [MoneroOS](https://github.com/4rkal/MoneroOS) - Plug and play monero mining archuseriso config
 - [XMRig for Android](https://github.com/XMRig-for-Android/xmrig-for-android) - ⛏ Mine Monero from your android device 
+
+## Decentralized Exchanges
+
+- [Bisq](https://bisq.network/) - A decentralized exchange network for trading Monero and other cryptocurrencies.
+- [Haveno](https://github.com/woodser/haveno) - A decentralized, peer-to-peer, non-custodial Monero exchange for trading fiat currencies for Monero.
+- [Serai](https://github.com/serai-dex/serai) - Serai is a new DEX, built from the ground up, initially planning on listing Bitcoin, Ethereum, DAI, and Monero, offering a liquidity-pool-based trading experience. Funds are stored in an economically secured threshold-multisig wallet.
+- [BasicSwapDex](https://github.com/tecnovert/basicswap) ([Website](https://basicswapdex.com/)) - The BasicSwap DEX is a privacy-first and decentralized exchange which features cross-chain atomic swaps and a distributed order book.
 
 ## Atomic Swaps
 
