@@ -49,10 +49,11 @@ A curated list of awesome Monero libraries, tools, and resources.
 
 ### Mobile Wallets
 
-- [Cake Wallet](https://github.com/cake-tech/cake_wallet) - Popular iOS wallet
+- [Cake Wallet](https://github.com/cake-tech/cake_wallet) - Popular iOS and Android wallet
 - [Monerujo](https://github.com/m2049r/xmrwallet) - Popular Android wallet
 - [Stack Wallet](https://github.com/cypherstack/stack_wallet) - A multicoin, cryptocurrency wallet 
-- [ANONERO](http://anonero.io/) - Hardened wallet with enforced privacy & security (Onion link)
+- [ANONERO](http://anonero.io/) - Hardened wallet with enforced privacy & security for Android (onion link)
+- [MYSU](http://rk63tc3isr7so7ubl6q7kdxzzws7a7t6s467lbtw2ru3cwy6zu6w4jad.onion/) - A no-bullshit, pure Monero wallet suitable for both newcomers and experienced users. For Android. (onion link)
 
 ### Hardware Wallets
 
