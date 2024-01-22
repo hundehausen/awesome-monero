@@ -82,7 +82,7 @@ A curated list of awesome Monero libraries, tools, and resources.
 ## Docker
 
 - [Simple Monerod Docker](https://github.com/sethforprivacy/simple-monerod-docker) - A simple docker image for running a Monero node.
-- [Monero Suite](https://github.com/hundehausen/monero-suite) - Build your personal docker-compose.yml file for Monero services. 
+- [Monero Suite](https://github.com/hundehausen/monero-suite) ([Website](https://monerosuite.org)) - Build your personal docker-compose.yml file for Monero services. 
 - [Docker-XMRig](https://github.com/metal3d/docker-xmrig) - Xmrig containeried to mine monero cryptocurrency
 - [Moneroblock Docker](https://github.com/sethforprivacy/moneroblock-docker) - A simple and straightforward Dockerized MoneroBlock built from source and exposing standard ports.
 
@@ -124,8 +124,8 @@ A curated list of awesome Monero libraries, tools, and resources.
 
 ## Decentralized Exchanges
 
-- [Bisq](https://bisq.network/) - A decentralized exchange network for trading Monero and other cryptocurrencies.
-- [Haveno](https://github.com/woodser/haveno) - A decentralized, peer-to-peer, non-custodial Monero exchange for trading fiat currencies for Monero.
+- [Bisq](https://github.com/bisq-network/bisq) ([Website](https://bisq.network/)) - A decentralized exchange network for trading Monero and other cryptocurrencies.
+- [Haveno](https://github.com/haveno-dex/haveno) - A decentralized, peer-to-peer, non-custodial Monero exchange for trading fiat currencies for Monero.
 - [Serai](https://github.com/serai-dex/serai) - Serai is a new DEX, built from the ground up, initially planning on listing Bitcoin, Ethereum, DAI, and Monero, offering a liquidity-pool-based trading experience. Funds are stored in an economically secured threshold-multisig wallet.
 - [BasicSwapDex](https://github.com/tecnovert/basicswap) ([Website](https://basicswapdex.com/)) - The BasicSwap DEX is a privacy-first and decentralized exchange which features cross-chain atomic swaps and a distributed order book.
 
