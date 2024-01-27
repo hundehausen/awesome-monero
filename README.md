@@ -101,6 +101,7 @@ A curated list of awesome Monero libraries, tools, and resources.
 - [check-monero-seed-nodes](https://github.com/plowsof/check-monero-seed-nodes) - A script to check the status of Monero seed nodes
 - [Monero Node for Umbrel](https://github.com/deverickapollo/umbrel-monero) - Run a Monero node on your Umbrel personal server.
 - [xmr.sh](https://github.com/vdo/xmr.sh) - xmr.sh script wizard sets up a new server running a monero node daemon with Docker compose, with your choice of SSL certificates for your domain, network selection, a Tor hidden service, Grafana dashboard and more.
+- [Monero Nodo](https://github.com/MoneroNodo/Nodo) - Software running on a [Monero Nodo](https://moneronodo.com/): Monero Full Node on powerful hardware
 
 ## Blockchain Explorers
 
@@ -136,6 +137,7 @@ A curated list of awesome Monero libraries, tools, and resources.
 - [UnstoppableSwap GUI](https://github.com/UnstoppableSwap/unstoppableswap-gui) - Graphical User Interface (GUI) For Trustless Cross-Chain XMR<>BTC Atomic Swaps
 - [BCH-XMR-SWAP PoC](https://github.com/PHCitizen/bch-xmr-swap) - A proof of concept for a Bitcoin Cash to Monero atomic swap
 - [Farcaster Project](https://github.com/farcaster-project) - Farcaster is a cross-chain atomic swap protocol and implementation who allows to exchange Bitcoin and Monero in a peer-to-peer manner with anyone running a Farcaster node.
+- [Samourai XMR-BTC Swap Beta](https://code.samourai.io/wallet/comit-swaps-java) - A GUI for COMIT XMR-BTC atomic swaps with modifications to further enhance anonymity, with the Automated Swap Backend (ASB) built-in, as well as Samourai Wallet Whirlpool for automatic mixing of redeemed BTC. (Beta!)
 
 
 ## Merchants
