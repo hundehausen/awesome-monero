@@ -112,6 +112,7 @@ A curated list of awesome Monero libraries, tools, and resources.
 
 - [Nerostr](https://github.com/pluja/nerostr) -  nostr paid relay, but with monero
 - [NEVEKO](https://github.com/creating2morrow/neveko) - full-stack privacy application with gpg messaging, monero multisig and built-in i2p marketplace
+- [Split My Lunch](https://github.com/AlexAnarcho/split-my-lunch) - Allow co-workers to split the lunch bill in Monero
 
 ## Mining
 
