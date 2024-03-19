@@ -113,6 +113,7 @@ A curated list of awesome Monero libraries, tools, and resources.
 - [Nerostr](https://github.com/pluja/nerostr) -  nostr paid relay, but with monero
 - [NEVEKO](https://github.com/creating2morrow/neveko) - full-stack privacy application with gpg messaging, monero multisig and built-in i2p marketplace
 - [Split My Lunch](https://github.com/AlexAnarcho/split-my-lunch) - Allow co-workers to split the lunch bill in Monero
+- [XMR-T3-starter](https://gitlab.com/monero-studio/xmr-t3-starter) - A starter template for a T3 web app with monero-ts. t3-stack: nextjs (react), typescript, tailwind, trpc, prisma also includes: shadcn/ui, monero-ts
 
 ## Mining
 
