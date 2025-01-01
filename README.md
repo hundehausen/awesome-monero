@@ -29,6 +29,7 @@ A curated list of awesome Monero libraries, tools, and resources.
 - [Official Reddit](https://www.reddit.com/r/Monero/)
 - [Unofficial Docs](https://docs.monero.study/)
 - [Monero Research Lab](https://github.com/monero-project/research-lab)
+- [MoneroResearch.info](https://moneroresearch.info/) - Hosts a collection of research papers relevant to improving Monero
 
 - [Implementing Seraphis](https://raw.githubusercontent.com/UkoeHB/Seraphis/master/implementing_seraphis/Impl-Seraphis-0-0-2.pdf)
 - [RandomX](https://github.com/tevador/RandomX) - RandomX is a proof-of-work (PoW) algorithm that is optimized for general-purpose CPUs.
