@@ -163,7 +163,7 @@ A curated list of awesome Monero libraries, tools, and resources.
 
 - [OSPEAD](https://github.com/Rucknium/OSPEAD) - Optimal Static Parametric Estimation of Arbitrary Distributions (OSPEAD) for the Monero decoy selection algorithm.
 - [Seraphis](https://github.com/UkoeHB/Seraphis) - Seraphis is a privacy-focused transaction protocol for p2p electronic cash systems (e.g. cryptocurrencies).
-- [Full chain membership proofs (FCMP++)](https://github.com/kayabaNerve/full-chain-membership-proofs)
-- [Carrot (Cryptonote Address on Rerandomizable-RingCT-Output Transactions)](https://github.com/jeffro256/carrot/blob/master/carrot.md) - an addressing protocol for the upcoming FCMP++ upgrade to Monero.
+- [Full Chain Membership Proofs Plus Plus (FCMP++)](https://github.com/kayabaNerve/fcmp-plus-plus) - an upcoming transaction protocol that will enable an anonimity set comprised of any outputs on chain, transaction chaining, outgoing view keys, and forward secrecy.
+- [CARROT (Cryptonote Address on Rerandomizable-RingCT-Output Transactions)](https://github.com/jeffro256/carrot/blob/master/carrot.md) - an addressing protocol for the upcoming FCMP++ upgrade to Monero.
 - [Cuprate](https://github.com/Cuprate/cuprate) - an upcoming experimental, modern & secure monero node. Written in Rust.
 - [wallet3](https://github.com/seraphis-migration/wallet3) - Info and discussions about a hypothetical full 'wallet2' rewrite from scratch.
