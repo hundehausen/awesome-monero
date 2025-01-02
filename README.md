@@ -28,10 +28,9 @@ A curated list of awesome Monero libraries, tools, and resources.
 - [Official Twitter](https://twitter.com/monero)
 - [Official Reddit](https://www.reddit.com/r/Monero/)
 - [Unofficial Docs](https://docs.monero.study/)
-- [Monero Research Lab](https://github.com/monero-project/research-lab)
+- [Monero Research Lab (MRL)](https://github.com/monero-project/research-lab)
 - [MoneroResearch.info](https://moneroresearch.info/) - Hosts a collection of research papers relevant to improving Monero
-
-- [Implementing Seraphis](https://raw.githubusercontent.com/UkoeHB/Seraphis/master/implementing_seraphis/Impl-Seraphis-0-0-2.pdf)
+- [Implementing Seraphis](https://raw.githubusercontent.com/UkoeHB/Seraphis/master/implementing_seraphis/Impl-Seraphis-0-0-4.pdf)
 - [RandomX](https://github.com/tevador/RandomX) - RandomX is a proof-of-work (PoW) algorithm that is optimized for general-purpose CPUs.
 - [LMDB](https://github.com/LMDB/lmdb) - Lightning Memory-Mapped Database
 
@@ -92,6 +91,7 @@ A curated list of awesome Monero libraries, tools, and resources.
 - [Monero Inflation Checker](https://github.com/DangerousFreedom1984/monero_inflation_checker) - Minimal Python tools and educational material for checking inflation in Monero. You can get more information at moneroinflation.com.
 - [Monero Vanity Address Generator](https://github.com/hinto-janai/monero-vanity) - Monero vanity address generator for CPUs
 - [monero-lws](https://github.com/vtnerd/monero-lws) - Monero Light Wallet Server (scans monero viewkeys and implements mymonero API)
+- [Monerod GUI](https://github.com/everoddandeven/monerod-gui) - A Monerod node manager for Windows, MacOS and Linux 
 
 ## Nodes
 
@@ -161,7 +161,9 @@ A curated list of awesome Monero libraries, tools, and resources.
 
 ## Future development
 
+- [OSPEAD](https://github.com/Rucknium/OSPEAD) - Optimal Static Parametric Estimation of Arbitrary Distributions (OSPEAD) for the Monero decoy selection algorithm.
 - [Seraphis](https://github.com/UkoeHB/Seraphis) - Seraphis is a privacy-focused transaction protocol for p2p electronic cash systems (e.g. cryptocurrencies).
-- [Full chain membership proofs](https://github.com/kayabaNerve/full-chain-membership-proofs)
+- [Full chain membership proofs (FCMP++)](https://github.com/kayabaNerve/full-chain-membership-proofs)
+- [Carrot (Cryptonote Address on Rerandomizable-RingCT-Output Transactions)](https://github.com/jeffro256/carrot/blob/master/carrot.md) - an addressing protocol for the upcoming FCMP++ upgrade to Monero.
 - [Cuprate](https://github.com/Cuprate/cuprate) - an upcoming experimental, modern & secure monero node. Written in Rust.
-- [wallet3](https://github.com/seraphis-migration/wallet3) - Info and discussions about a hypothetical full 'wallet2' rewrite from scratch 
+- [wallet3](https://github.com/seraphis-migration/wallet3) - Info and discussions about a hypothetical full 'wallet2' rewrite from scratch.
