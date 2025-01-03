@@ -1,6 +1,6 @@
 # Awesome Monero List
 
-A curated list of awesome Monero libraries, tools, and resources.
+A curated list of awesome Monero libraries, tools, and resources. More focused on software projects and tools, rather than general information about Monero.
 
 ## Contents
 
@@ -19,7 +19,7 @@ A curated list of awesome Monero libraries, tools, and resources.
 - [Merchants](#merchants)
 - [Point of Sale](#point-of-sale)
 - [Future development](#future-development)
-- [Other](#other)
+- [Conferences](#conferences)
 
 ## Resources
 
@@ -28,6 +28,8 @@ A curated list of awesome Monero libraries, tools, and resources.
 - [Official Twitter](https://twitter.com/monero)
 - [Official Reddit](https://www.reddit.com/r/Monero/)
 - [Unofficial Docs](https://docs.monero.study/)
+- [Monero Guildes](https://moneroguides.org/)
+- [LocalMonero Knowledge Base](https://localmonero.co/nojs/knowledge)
 - [Monero Research Lab](https://github.com/monero-project/research-lab)
 - [MoneroResearch.info](https://moneroresearch.info/) - Hosts a collection of research papers relevant to improving Monero
 
@@ -71,7 +73,7 @@ A curated list of awesome Monero libraries, tools, and resources.
 
 - [monero-ts](https://github.com/woodser/monero-ts) - Monero TypeScript library for Node.js and browsers
 - [monerophp](https://github.com/monero-integrations/monerophp) - A Monero library written in PHP by the Monero Integrations team.
-- [monero-python](https://github.com/monero-integrations/monero-python) -  A comprehensive Python module for handling Monero cryptocurrency
+- [monero-python](https://github.com/monero-integrations/monero-python) - A comprehensive Python module for handling Monero cryptocurrency
 - [monero-rpc-php](https://github.com/refring/monero-rpc-php) - Monero daemon and wallet RPC client library written in modern PHP.
 - [monero-java](https://github.com/woodser/monero-java) - Java library for using Monero 
 - [monero-rs](https://github.com/monero-rs/monero-rs) - Library with support for de/serialization on block data structures and key/address generation and scanning related to Monero cryptocurrency.
@@ -92,30 +94,33 @@ A curated list of awesome Monero libraries, tools, and resources.
 - [Monero Inflation Checker](https://github.com/DangerousFreedom1984/monero_inflation_checker) - Minimal Python tools and educational material for checking inflation in Monero. You can get more information at moneroinflation.com.
 - [Monero Vanity Address Generator](https://github.com/hinto-janai/monero-vanity) - Monero vanity address generator for CPUs
 - [monero-lws](https://github.com/vtnerd/monero-lws) - Monero Light Wallet Server (scans monero viewkeys and implements mymonero API)
-
+- [psst](https://github.com/Unkn8wn69/psst) - A monero polyseed secret sharing tool using Shamir's Secret Sharing Scheme
 ## Nodes
 
 - [Monero Node List](https://moneroworld.com/) - A list of public Monero nodes.
 - [Monero Node Scanner](https://monerohash.com/nodes-distribution.html) - A tool to scan the Monero network for nodes.
-- [monero.fail](https://monero.fail/) -  Monero public node aggregator.
+- [monero.fail](https://monero.fail/) - Monero public node aggregator.
 - [Monerod-in-Termux](https://github.com/CryptoGrampy/android-termux-monero-node) - Run a Monero Node on Android using Termux
 - [check-monero-seed-nodes](https://github.com/plowsof/check-monero-seed-nodes) - A script to check the status of Monero seed nodes
 - [Monero Node for Umbrel](https://github.com/deverickapollo/umbrel-monero) - Run a Monero node on your Umbrel personal server.
 - [xmr.sh](https://github.com/vdo/xmr.sh) - xmr.sh script wizard sets up a new server running a monero node daemon with Docker compose, with your choice of SSL certificates for your domain, network selection, a Tor hidden service, Grafana dashboard and more.
 - [Monero Nodo](https://github.com/MoneroNodo/Nodo) - Software running on a [Monero Nodo](https://moneronodo.com/): Monero Full Node on powerful hardware
+- [Monerod GUI](https://github.com/everoddandeven/monerod-gui) - A desktop application that provides a graphical user interface (GUI) for installing, updating, and interacting with the Monero daemon (monerod). This tool simplifies the process of managing a full Monero node, enabling users to run, configure, and monitor monerod without needing to use the command line.
+- [PiNodeXMR](https://github.com/shermand100/PiNodeXMR) - Monero Node for Single Board Computers with Web Interface and additional tools pre-configured. Self Installing.
+- [Monero Ban List](https://github.com/Boog900/monero-ban-list) - A banlist for Monero nodes. These nodes were found displaying behaviour that the normal Monero nodes would not do. The total count of IP addresses hosting nodes showing this behaviour is currently over 1900.
 
 ## Blockchain Explorers
 
 - [Onion Monero Blockchain Explorer](https://github.com/moneroexamples/onion-monero-blockchain-explorer) - A Monero blockchain explorer.
-- [Moneroblock](https://github.com/duggavo/MoneroBlock) -  Decentralized and trustless Monero block explorer
+- [Moneroblock](https://github.com/duggavo/MoneroBlock) - Decentralized and trustless Monero block explorer
 
 ## Built with Monero
 
-- [Nerostr](https://github.com/pluja/nerostr) -  nostr paid relay, but with monero
+- [Nerostr](https://github.com/pluja/nerostr) - nostr paid relay, but with monero
 - [NEVEKO](https://github.com/creating2morrow/neveko) - full-stack privacy application with gpg messaging, monero multisig and built-in i2p marketplace
 - [Split My Lunch](https://github.com/AlexAnarcho/split-my-lunch) - Allow co-workers to split the lunch bill in Monero
 - [XMR-T3-starter](https://gitlab.com/monero-studio/xmr-t3-starter) - A starter template for a T3 web app with monero-ts. t3-stack: nextjs (react), typescript, tailwind, trpc, prisma also includes: shadcn/ui, monero-ts
-
+- [XMRChat](https://github.com/sa8ab/xmrchat) - XMRChat is a tip-for-chat application. Users can set up a page and have others send chat messages in exchange for XMR. The application is built with a focus on privacy and security.
 ## Mining
 
 - [XMRig](https://github.com/xmrig/xmrig) - High performance, open source, cross platform RandomX, CryptoNight and Argon2 CPU/GPU miner
@@ -129,7 +134,8 @@ A curated list of awesome Monero libraries, tools, and resources.
 ## Decentralized Exchanges
 
 - [Bisq](https://github.com/bisq-network/bisq) ([Website](https://bisq.network/)) - A decentralized exchange network for trading Monero and other cryptocurrencies.
-- [Haveno](https://github.com/haveno-dex/haveno) - A decentralized, peer-to-peer, non-custodial Monero exchange for trading fiat currencies for Monero.
+- [Haveno](https://github.com/haveno-dex/haveno) - A decentralized, peer-to-peer, non-custodial Monero exchange for trading fiat currencies for Monero. This is only the software / protocol. Haveno can run in multiple networks / instances.
+- [RetoSwap](https://github.com/retoaccess1/haveno-reto) - The first public haveno network. 
 - [Serai](https://github.com/serai-dex/serai) - Serai is a new DEX, built from the ground up, initially planning on listing Bitcoin, Ethereum, DAI, and Monero, offering a liquidity-pool-based trading experience. Funds are stored in an economically secured threshold-multisig wallet.
 - [BasicSwapDex](https://github.com/tecnovert/basicswap) ([Website](https://basicswapdex.com/)) - The BasicSwap DEX is a privacy-first and decentralized exchange which features cross-chain atomic swaps and a distributed order book.
 
@@ -148,6 +154,7 @@ A curated list of awesome Monero libraries, tools, and resources.
 - [Monero Merchants](https://www.monerooutreach.org/stories/monero_merchants.html) - A list of merchants that accept Monero as payment.
 - [Monerica](https://github.com/monerica-project/monerica) ([Website](https://monerica.com/)) - A directory for a Monero circular economy
 - [Monero for Merchants](https://github.com/ASchmidt1024/monero-for-merchants-booklet) - A printable booklet to attract merchants to accept Monero (multiple languages!)
+- [XMRBazaar](https://xmrbazaar.com/) - P2P marketplace that accepts Monero. It is similar to MoneroMarket and Facebook Marketplace. Messenger for buyer/seller is included with PGP encryption. (still in beta)
 
 ## Point of Sale
 
@@ -162,6 +169,11 @@ A curated list of awesome Monero libraries, tools, and resources.
 ## Future development
 
 - [Seraphis](https://github.com/UkoeHB/Seraphis) - Seraphis is a privacy-focused transaction protocol for p2p electronic cash systems (e.g. cryptocurrencies).
-- [Full chain membership proofs](https://github.com/kayabaNerve/full-chain-membership-proofs)
+- [Full chain membership proofs](https://github.com/kayabaNerve/fcmp-plus-plus) - FCMP++, shortened from FCMP+SA+L, short for Full-Chain Membership Proofs + Spend Authorization + Linkability, are an accomplishment of full-set privacy over the existing RingCT protocol used within Monero.
+- [CARROT](https://github.com/jeffro256/carrot/blob/master/carrot.md) - Cryptonote Address on Rerandomizable-RingCT-Output Transactions: an addressing protocol for the upcoming FCMP++ upgrade to Monero.
 - [Cuprate](https://github.com/Cuprate/cuprate) - an upcoming experimental, modern & secure monero node. Written in Rust.
 - [wallet3](https://github.com/seraphis-migration/wallet3) - Info and discussions about a hypothetical full 'wallet2' rewrite from scratch 
+
+## Conferences
+- [Monero Konferenco](https://www.monerokon.org/) - Monero Konferenco (“MoneroKon”) is an annual meeting of privacy advocates, cypherpunks, researchers, and developers and is designed to disseminate scientific and technical results in privacy-enhancing technologies and distributed systems. Usually in Prague, Czech Republic.
+- [Monerotopia](https://monerotopia.com/) - Monero conference usually in Mexico City, Mexico.
