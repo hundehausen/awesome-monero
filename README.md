@@ -27,13 +27,13 @@ A curated list of awesome Monero libraries, tools, and resources. More focused o
 - [Official GitHub](https://github.com/monero-project/monero)
 - [Official Twitter](https://twitter.com/monero)
 - [Official Reddit](https://www.reddit.com/r/Monero/)
-- [Unofficial Docs](https://docs.monero.study/)
+- [Unofficial Documentation](https://getmonero.dev/)
 - [Monero Guildes](https://moneroguides.org/)
 - [LocalMonero Knowledge Base](https://localmonero.co/nojs/knowledge)
 - [Monero Research Lab](https://github.com/monero-project/research-lab)
 - [MoneroResearch.info](https://moneroresearch.info/) - Hosts a collection of research papers relevant to improving Monero
 
-- [Implementing Seraphis](https://raw.githubusercontent.com/UkoeHB/Seraphis/master/implementing_seraphis/Impl-Seraphis-0-0-2.pdf)
+- [Implementing Seraphis](https://raw.githubusercontent.com/UkoeHB/Seraphis/master/implementing_seraphis/Impl-Seraphis-0-0-4.pdf) -  A working document on how Seraphis, a transaction protocol abstraction for p2p electronic cash systems, may be implemented.
 - [RandomX](https://github.com/tevador/RandomX) - RandomX is a proof-of-work (PoW) algorithm that is optimized for general-purpose CPUs.
 - [LMDB](https://github.com/LMDB/lmdb) - Lightning Memory-Mapped Database
 
