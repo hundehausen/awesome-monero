@@ -27,7 +27,7 @@ A curated list of awesome Monero libraries, tools, and resources. More focused o
 - [Official GitHub](https://github.com/monero-project/monero)
 - [Official Twitter](https://twitter.com/monero)
 - [Official Reddit](https://www.reddit.com/r/Monero/)
-- [Unofficial Documentation](https://getmonero.dev/)
+- [Monero Documentation](https://docs.getmonero.org/)
 - [Monero Guildes](https://moneroguides.org/)
 - [LocalMonero Knowledge Base](https://localmonero.co/nojs/knowledge)
 - [Monero Research Lab](https://github.com/monero-project/research-lab)
