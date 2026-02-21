@@ -32,6 +32,7 @@ A curated list of awesome Monero libraries, tools, and resources. More focused o
 - [LocalMonero Knowledge Base](https://localmonero.co/nojs/knowledge)
 - [Monero Research Lab](https://github.com/monero-project/research-lab)
 - [MoneroResearch.info](https://moneroresearch.info/) - Hosts a collection of research papers relevant to improving Monero
+- [XMR-Compass](https://xmr-compass.org) - Comparison directory for no-KYC Monero swaps, P2P platforms, and privacy tools. Real-time rates, safety scores, multilingual (EN/FR/RU/ZH).
 
 - [Implementing Seraphis](https://raw.githubusercontent.com/UkoeHB/Seraphis/master/implementing_seraphis/Impl-Seraphis-0-0-4.pdf) -  A working document on how Seraphis, a transaction protocol abstraction for p2p electronic cash systems, may be implemented.
 - [RandomX](https://github.com/tevador/RandomX) - RandomX is a proof-of-work (PoW) algorithm that is optimized for general-purpose CPUs.
