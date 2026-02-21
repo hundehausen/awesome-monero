@@ -95,6 +95,8 @@ A curated list of awesome Monero libraries, tools, and resources. More focused o
 - [Monero Vanity Address Generator](https://github.com/hinto-janai/monero-vanity) - Monero vanity address generator for CPUs
 - [monero-lws](https://github.com/vtnerd/monero-lws) - Monero Light Wallet Server (scans monero viewkeys and implements mymonero API)
 - [psst](https://github.com/Unkn8wn69/psst) - A monero polyseed secret sharing tool using Shamir's Secret Sharing Scheme
+- [xmr-proxy](https://github.com/tornadocontrib/xmr-proxy) - Reverse Proxy for Monero RPC to broadcast raw transactions with safer connections.
+
 ## Nodes
 
 - [Monero Node List](https://moneroworld.com/) - A list of public Monero nodes.
