@@ -69,6 +69,7 @@ A curated list of awesome Monero libraries, tools, and resources. More focused o
 
 ### Other Wallets
 - [Monero Subscriptions Wallet](https://github.com/lukeprofits/Monero_Subscriptions_Wallet) - A Monero wallet that automatically pays subscriptions.
+- [AmethystXMR](https://amethystxmr.github.io) - Self-custodial Monero wallet in browser with multisig support
 
 ## Libraries
 
