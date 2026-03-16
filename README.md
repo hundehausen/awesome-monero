@@ -137,6 +137,7 @@ A curated list of awesome Monero libraries, tools, and resources. More focused o
 - [Bisq](https://github.com/bisq-network/bisq) ([Website](https://bisq.network/)) - A decentralized exchange network for trading Monero and other cryptocurrencies.
 - [Haveno](https://github.com/haveno-dex/haveno) - A decentralized, peer-to-peer, non-custodial Monero exchange for trading fiat currencies for Monero. This is only the software / protocol. Haveno can run in multiple networks / instances.
 - [RetoSwap](https://github.com/retoaccess1/haveno-reto) - The first public haveno network. 
+- [DawnSwap](https://dawnswap.com) ([Source](https://github.com/dawn-collective/haveno-dawn)) - A community-driven Haveno network with lower security deposits (5%) and 24/7 arbitration.
 - [Serai](https://github.com/serai-dex/serai) - Serai is a new DEX, built from the ground up, initially planning on listing Bitcoin, Ethereum, DAI, and Monero, offering a liquidity-pool-based trading experience. Funds are stored in an economically secured threshold-multisig wallet.
 - [BasicSwapDex](https://github.com/tecnovert/basicswap) ([Website](https://basicswapdex.com/)) - The BasicSwap DEX is a privacy-first and decentralized exchange which features cross-chain atomic swaps and a distributed order book.
 
@@ -179,3 +180,4 @@ A curated list of awesome Monero libraries, tools, and resources. More focused o
 ## Conferences
 - [Monero Konferenco](https://www.monerokon.org/) - Monero Konferenco (“MoneroKon”) is an annual meeting of privacy advocates, cypherpunks, researchers, and developers and is designed to disseminate scientific and technical results in privacy-enhancing technologies and distributed systems. Usually in Prague, Czech Republic.
 - [Monerotopia](https://monerotopia.com/) - Monero conference usually in Mexico City, Mexico.
+
