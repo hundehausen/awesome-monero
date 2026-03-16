@@ -158,6 +158,7 @@ A curated list of awesome Monero libraries, tools, and resources. More focused o
 - [XMRBazaar](https://xmrbazaar.com/) - P2P marketplace that accepts Monero. It is similar to MoneroMarket and Facebook Marketplace. Messenger for buyer/seller is included with PGP encryption. (still in beta)
 - [PikaSim](https://pikasim.com) - Privacy-focused eSIM provider for 170+ countries. No account required, no ID upload, no email needed for crypto. Accepts Monero, Bitcoin, and Lightning via self-hosted BTCPay Server.
 
+- [arnoldnakamura](https://arnoldnakamura.codeberg.page) - P2P XMR↔EUR trading, Cash by Mail (EU-wide) + Face-to-Face (SW Germany). 683+ completed trades (formerly chingchongfalung on LocalMonero/AgoraDesk).
 ## Point of Sale
 
 - [Kasisto](https://github.com/amiuhle/kasisto) - A Monero Point of Sale payment system 
