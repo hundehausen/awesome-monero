@@ -14,6 +14,7 @@ A curated list of awesome Monero libraries, tools, and resources. More focused o
 - [Built with Monero](#build-with-monero)
 - [Mining](#mining)
 - [Decentralized Exchanges](#decentralized-exchanges)
+- [Centralized Exchanges](#centralized-exchanges)
 - [Atomic Swaps](#atomic-swaps)
 - [Integrations](#integrations)
 - [Merchants](#merchants)
@@ -139,6 +140,10 @@ A curated list of awesome Monero libraries, tools, and resources. More focused o
 - [RetoSwap](https://github.com/retoaccess1/haveno-reto) - The first public haveno network. 
 - [Serai](https://github.com/serai-dex/serai) - Serai is a new DEX, built from the ground up, initially planning on listing Bitcoin, Ethereum, DAI, and Monero, offering a liquidity-pool-based trading experience. Funds are stored in an economically secured threshold-multisig wallet.
 - [BasicSwapDex](https://github.com/tecnovert/basicswap) ([Website](https://basicswapdex.com/)) - The BasicSwap DEX is a privacy-first and decentralized exchange which features cross-chain atomic swaps and a distributed order book.
+
+## Centralized Exchanges
+
+- [BitcoinVN](https://bitcoinvn.io) - Non-custodial instant exchange supporting XMR. Buy and sell Monero for fiat (VND) or swap between XMR and other cryptocurrencies. Operating since 2014.
 
 ## Atomic Swaps
 
