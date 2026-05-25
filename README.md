@@ -150,6 +150,13 @@ A curated list of awesome Monero libraries, tools, and resources. More focused o
 - [Samourai XMR-BTC Swap Beta](https://code.samourai.io/wallet/comit-swaps-java) - A GUI for COMIT XMR-BTC atomic swaps with modifications to further enhance anonymity, with the Automated Swap Backend (ASB) built-in, as well as Samourai Wallet Whirlpool for automatic mixing of redeemed BTC. (Beta!)
 
 
+## Swap Aggregators
+
+- [MoneroSwapper](https://moneroswapper.io) - Anonymous swap aggregator routing transactions through multiple no-KYC exchange providers. Supports 1700+ cryptocurrencies, available via Tor onion ([llh6wrygjmhqsho6wturufyfkmy5haej74jatknm4qvr7wb4v5bg6zad.onion](http://llh6wrygjmhqsho6wturufyfkmy5haej74jatknm4qvr7wb4v5bg6zad.onion)) and clearnet. 20-language UI, 14-day transactional data retention.
+- [SimpleSwap](https://simpleswap.io/) - Instant crypto exchange aggregator with XMR support, no registration required.
+- [FixedFloat](https://fixedfloat.com/) - Automated cryptocurrency exchange offering XMR swaps without account creation.
+- [ChangeNOW](https://changenow.io/) - Non-custodial crypto exchange with Monero support and no mandatory KYC for most swaps.
+
 ## Merchants
 
 - [Monero Merchants](https://www.monerooutreach.org/stories/monero_merchants.html) - A list of merchants that accept Monero as payment.
