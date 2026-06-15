@@ -157,6 +157,7 @@ A curated list of awesome Monero libraries, tools, and resources. More focused o
 - [Monero for Merchants](https://github.com/ASchmidt1024/monero-for-merchants-booklet) - A printable booklet to attract merchants to accept Monero (multiple languages!)
 - [XMRBazaar](https://xmrbazaar.com/) - P2P marketplace that accepts Monero. It is similar to MoneroMarket and Facebook Marketplace. Messenger for buyer/seller is included with PGP encryption. (still in beta)
 - [PikaSim](https://pikasim.com) - Privacy-focused eSIM provider for 170+ countries. No account required, no ID upload, no email needed for crypto. Accepts Monero, Bitcoin, and Lightning via self-hosted BTCPay Server.
+- [Cypher eSIM](https://cypheresim.com) - No-KYC travel eSIM for 180+ countries. No account, ID, or email required. Pay with Monero, Bitcoin, USDT, and SOL; instant QR activation, available on the web and via Telegram.
 
 ## Point of Sale
 
