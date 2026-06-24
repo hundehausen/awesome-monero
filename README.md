@@ -119,6 +119,7 @@ A curated list of awesome Monero libraries, tools, and resources. More focused o
 
 - [Nerostr](https://github.com/pluja/nerostr) - nostr paid relay, but with monero
 - [NEVEKO](https://github.com/creating2morrow/neveko) - full-stack privacy application with gpg messaging, monero multisig and built-in i2p marketplace
+- [nullsink](https://nullsink.is) ([Source](https://github.com/nullsink/nullsink)) - Account-less proxy for frontier-model APIs, paid in Monero. Mint a token, fund a single-use subaddress, call the official SDKs. No accounts, no logs.
 - [Split My Lunch](https://github.com/AlexAnarcho/split-my-lunch) - Allow co-workers to split the lunch bill in Monero
 - [XMR-T3-starter](https://gitlab.com/monero-studio/xmr-t3-starter) - A starter template for a T3 web app with monero-ts. t3-stack: nextjs (react), typescript, tailwind, trpc, prisma also includes: shadcn/ui, monero-ts
 - [XMRChat](https://github.com/sa8ab/xmrchat) - XMRChat is a tip-for-chat application. Users can set up a page and have others send chat messages in exchange for XMR. The application is built with a focus on privacy and security.
