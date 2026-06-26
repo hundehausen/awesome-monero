@@ -32,7 +32,6 @@ A curated list of awesome Monero libraries, tools, and resources. More focused o
 - [LocalMonero Knowledge Base](https://localmonero.co/nojs/knowledge)
 - [Monero Research Lab](https://github.com/monero-project/research-lab)
 - [MoneroResearch.info](https://moneroresearch.info/) - Hosts a collection of research papers relevant to improving Monero
-- [XMR-Compass](https://xmr-compass.org) - Comparison directory for no-KYC Monero swaps, P2P platforms, and privacy tools. Real-time rates, safety scores, multilingual (EN/FR/RU/ZH).
 
 - [Implementing Seraphis](https://raw.githubusercontent.com/UkoeHB/Seraphis/master/implementing_seraphis/Impl-Seraphis-0-0-4.pdf) -  A working document on how Seraphis, a transaction protocol abstraction for p2p electronic cash systems, may be implemented.
 - [RandomX](https://github.com/tevador/RandomX) - RandomX is a proof-of-work (PoW) algorithm that is optimized for general-purpose CPUs.
@@ -74,7 +73,6 @@ A curated list of awesome Monero libraries, tools, and resources. More focused o
 
 - [monero-ts](https://github.com/woodser/monero-ts) - Monero TypeScript library for Node.js and browsers
 - [monerophp](https://github.com/monero-integrations/monerophp) - A Monero library written in PHP by the Monero Integrations team.
-- [monero-python](https://github.com/monero-integrations/monero-python) - A comprehensive Python module for handling Monero cryptocurrency
 - [monero-rpc-php](https://github.com/refring/monero-rpc-php) - Monero daemon and wallet RPC client library written in modern PHP.
 - [monero-java](https://github.com/woodser/monero-java) - Java library for using Monero 
 - [monero-rs](https://github.com/monero-rs/monero-rs) - Library with support for de/serialization on block data structures and key/address generation and scanning related to Monero cryptocurrency.
@@ -88,7 +86,6 @@ A curated list of awesome Monero libraries, tools, and resources. More focused o
 - [Simple Monerod Docker](https://github.com/sethforprivacy/simple-monerod-docker) - A simple docker image for running a Monero node.
 - [Monero Suite](https://github.com/hundehausen/monero-suite) ([Website](https://monerosuite.org)) - Build your personal docker-compose.yml file for Monero services. 
 - [Docker-XMRig](https://github.com/metal3d/docker-xmrig) - Xmrig containeried to mine monero cryptocurrency
-- [Moneroblock Docker](https://github.com/sethforprivacy/moneroblock-docker) - A simple and straightforward Dockerized MoneroBlock built from source and exposing standard ports.
 
 ## Tools
 
@@ -147,14 +144,11 @@ A curated list of awesome Monero libraries, tools, and resources. More focused o
 - [UnstoppableSwap GUI](https://github.com/UnstoppableSwap/unstoppableswap-gui) - Graphical User Interface (GUI) For Trustless Cross-Chain XMR<>BTC Atomic Swaps
 - [BCH-XMR-SWAP PoC](https://github.com/PHCitizen/bch-xmr-swap) - A proof of concept for a Bitcoin Cash to Monero atomic swap
 - [Farcaster Project](https://github.com/farcaster-project) - Farcaster is a cross-chain atomic swap protocol and implementation who allows to exchange Bitcoin and Monero in a peer-to-peer manner with anyone running a Farcaster node.
-- [Samourai XMR-BTC Swap Beta](https://code.samourai.io/wallet/comit-swaps-java) - A GUI for COMIT XMR-BTC atomic swaps with modifications to further enhance anonymity, with the Automated Swap Backend (ASB) built-in, as well as Samourai Wallet Whirlpool for automatic mixing of redeemed BTC. (Beta!)
 
 
 ## Merchants
 
-- [Monero Merchants](https://www.monerooutreach.org/stories/monero_merchants.html) - A list of merchants that accept Monero as payment.
 - [Monerica](https://github.com/monerica-project/monerica) ([Website](https://monerica.com/)) - A directory for a Monero circular economy
-- [Monero for Merchants](https://github.com/ASchmidt1024/monero-for-merchants-booklet) - A printable booklet to attract merchants to accept Monero (multiple languages!)
 - [XMRBazaar](https://xmrbazaar.com/) - P2P marketplace that accepts Monero. It is similar to MoneroMarket and Facebook Marketplace. Messenger for buyer/seller is included with PGP encryption. (still in beta)
 - [PikaSim](https://pikasim.com) - Privacy-focused eSIM provider for 170+ countries. No account required, no ID upload, no email needed for crypto. Accepts Monero, Bitcoin, and Lightning via self-hosted BTCPay Server.
 
