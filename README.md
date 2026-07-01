@@ -152,6 +152,7 @@ A curated list of awesome Monero libraries, tools, and resources. More focused o
 - [Monerica](https://github.com/monerica-project/monerica) ([Website](https://monerica.com/)) - A directory for a Monero circular economy
 - [XMRBazaar](https://xmrbazaar.com/) - P2P marketplace that accepts Monero. It is similar to MoneroMarket and Facebook Marketplace. Messenger for buyer/seller is included with PGP encryption. (still in beta)
 - [PikaSim](https://pikasim.com) - Privacy-focused eSIM provider for 170+ countries. No account required, no ID upload, no email needed for crypto. Accepts Monero, Bitcoin, and Lightning via self-hosted BTCPay Server.
+- [0xEsim](https://0xesim.io) - Privacy-focused no-KYC eSIM for 190+ countries. No account, no ID, no email required. Pay with Monero, USDT and other crypto.
 
 ## Point of Sale
 
