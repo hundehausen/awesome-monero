@@ -15,7 +15,6 @@ A curated list of awesome Monero libraries, tools, and resources. More focused o
 - [Mining](#mining)
 - [Decentralized Exchanges](#decentralized-exchanges)
 - [Atomic Swaps](#atomic-swaps)
-- [Integrations](#integrations)
 - [Merchants](#merchants)
 - [Point of Sale](#point-of-sale)
 - [Future development](#future-development)
@@ -29,13 +28,11 @@ A curated list of awesome Monero libraries, tools, and resources. More focused o
 - [Official Reddit](https://www.reddit.com/r/Monero/)
 - [Monero Documentation](https://docs.getmonero.org/)
 - [Monero Guildes](https://moneroguides.org/)
-- [LocalMonero Knowledge Base](https://localmonero.co/nojs/knowledge)
 - [Monero Research Lab](https://github.com/monero-project/research-lab)
 - [MoneroResearch.info](https://moneroresearch.info/) - Hosts a collection of research papers relevant to improving Monero
 
 - [Implementing Seraphis](https://raw.githubusercontent.com/UkoeHB/Seraphis/master/implementing_seraphis/Impl-Seraphis-0-0-4.pdf) -  A working document on how Seraphis, a transaction protocol abstraction for p2p electronic cash systems, may be implemented.
 - [RandomX](https://github.com/tevador/RandomX) - RandomX is a proof-of-work (PoW) algorithm that is optimized for general-purpose CPUs.
-- [LMDB](https://github.com/LMDB/lmdb) - Lightning Memory-Mapped Database
 
 ### Books
 
@@ -56,12 +53,11 @@ A curated list of awesome Monero libraries, tools, and resources. More focused o
 - [Cake Wallet](https://github.com/cake-tech/cake_wallet) - Popular iOS and Android wallet and desktop wallet
 - [Monerujo](https://github.com/m2049r/xmrwallet) - Popular Android wallet
 - [Stack Wallet](https://github.com/cypherstack/stack_wallet) - A multicoin, cryptocurrency wallet 
-- [ANONERO](http://anonero.io/) - Hardened wallet with enforced privacy & security for Android (onion link)
+- [ANONERO](https://anonero.io/) - Hardened wallet with enforced privacy & security for Android (clearnet redirects to onion)
 - [MYSU](http://rk63tc3isr7so7ubl6q7kdxzzws7a7t6s467lbtw2ru3cwy6zu6w4jad.onion/) - A no-bullshit, pure Monero wallet suitable for both newcomers and experienced users. For Android. (onion link)
 
 ### Hardware Wallets
 
-- [Kastelo](https://github.com/monero-project/kastelo) - This is the project to create an official Monero Hardware Wallet (Dead project)
 - [passport2-monero](https://github.com/mjg-foundation/passport2-monero) - v2.x.x series of firmware for Passport, rebuilt for monero 
 - [MoneroSigner](https://github.com/Monero-HackerIndustrial/MoneroSigner) - Seedsigner Monero fork. Use an air-gapped Raspberry Pi Zero to sign monero transactions!
 - [Monero Ledger App](https://github.com/LedgerHQ/app-monero) - Monero wallet application for Ledger Nano S and Nano X. (avoid buying Ledger products)
@@ -103,7 +99,6 @@ A curated list of awesome Monero libraries, tools, and resources. More focused o
 - [Monero Node for Umbrel](https://github.com/deverickapollo/umbrel-monero) - Run a Monero node on your Umbrel personal server.
 - [xmr.sh](https://github.com/vdo/xmr.sh) - xmr.sh script wizard sets up a new server running a monero node daemon with Docker compose, with your choice of SSL certificates for your domain, network selection, a Tor hidden service, Grafana dashboard and more.
 - [Monero Nodo](https://github.com/MoneroNodo/Nodo) - Software running on a [Monero Nodo](https://moneronodo.com/): Monero Full Node on powerful hardware
-- [Monerod GUI](https://github.com/everoddandeven/monerod-gui) - A desktop application that provides a graphical user interface (GUI) for installing, updating, and interacting with the Monero daemon (monerod). This tool simplifies the process of managing a full Monero node, enabling users to run, configure, and monitor monerod without needing to use the command line.
 - [PiNodeXMR](https://github.com/shermand100/PiNodeXMR) - Monero Node for Single Board Computers with Web Interface and additional tools pre-configured. Self Installing.
 - [Monero Ban List](https://github.com/Boog900/monero-ban-list) - A banlist for Monero nodes. These nodes were found displaying behaviour that the normal Monero nodes would not do. The total count of IP addresses hosting nodes showing this behaviour is currently over 1900.
 
@@ -116,19 +111,17 @@ A curated list of awesome Monero libraries, tools, and resources. More focused o
 ## Built with Monero
 
 - [Nerostr](https://github.com/pluja/nerostr) - nostr paid relay, but with monero
-- [NEVEKO](https://github.com/creating2morrow/neveko) - full-stack privacy application with gpg messaging, monero multisig and built-in i2p marketplace
 - [nullsink](https://nullsink.is) ([Source](https://github.com/nullsink/nullsink)) - Account-less proxy for frontier-model APIs, paid in Monero. Mint a token, fund a single-use subaddress, call the official SDKs. No accounts, no logs.
 - [Split My Lunch](https://github.com/AlexAnarcho/split-my-lunch) - Allow co-workers to split the lunch bill in Monero
 - [XMR-T3-starter](https://gitlab.com/monero-studio/xmr-t3-starter) - A starter template for a T3 web app with monero-ts. t3-stack: nextjs (react), typescript, tailwind, trpc, prisma also includes: shadcn/ui, monero-ts
-- [XMRChat](https://github.com/sa8ab/xmrchat) - XMRChat is a tip-for-chat application. Users can set up a page and have others send chat messages in exchange for XMR. The application is built with a focus on privacy and security.
+- [XMRChat](https://github.com/XMRChat/xmrchat) ([Website](https://xmrchat.com)) - XMRChat is a tip-for-chat application. Users can set up a page and have others send chat messages in exchange for XMR. The application is built with a focus on privacy and security.
 ## Mining
 
 - [XMRig](https://github.com/xmrig/xmrig) - High performance, open source, cross platform RandomX, CryptoNight and Argon2 CPU/GPU miner
-- [Gupax](https://github.com/hinto-janai/gupax) - A simple GUI for mining Monero on P2Pool, using XMRig.
+- [Gupax](https://github.com/gupax-io/gupax) ([Website](https://gupax.io)) - A simple GUI for mining Monero on P2Pool, using XMRig.
 - [P2Pool](https://github.com/SChernykh/p2pool) - P2Pool is a decentralized Monero mining pool that works by creating a peer-to-peer network of miner nodes.
 - [XMRig Proxy](https://github.com/xmrig/xmrig-proxy) - Stratum proxy with Web interface, support for several backup pools, and more.
 - [Docker-XMRig](https://github.com/metal3d/docker-xmrig) - Xmrig containeried to mine monero cryptocurrency
-- [MoneroOS](https://github.com/4rkal/MoneroOS) - Plug and play monero mining archuseriso config
 - [XMRig for Android](https://github.com/XMRig-for-Android/xmrig-for-android) - ⛏ Mine Monero from your android device 
 
 ## Decentralized Exchanges
@@ -143,16 +136,15 @@ A curated list of awesome Monero libraries, tools, and resources. More focused o
 
 - [XMR to BTC Atomic Swap](https://github.com/comit-network/xmr-btc-swap) - Bitcoin–Monero Cross-chain Atomic Swap
 - [ETH-XMR Atomic Swaps](https://github.com/AthanorLabs/atomic-swap) - 💫 ETH-XMR atomic swap implementation
-- [UnstoppableSwap GUI](https://github.com/UnstoppableSwap/unstoppableswap-gui) - Graphical User Interface (GUI) For Trustless Cross-Chain XMR<>BTC Atomic Swaps
+- [eigenwallet](https://github.com/eigenwallet/core) ([Website](https://eigenwallet.org/)) - Monero–Bitcoin DEX based on atomic swaps. Successor to UnstoppableSwap.
 - [BCH-XMR-SWAP PoC](https://github.com/PHCitizen/bch-xmr-swap) - A proof of concept for a Bitcoin Cash to Monero atomic swap
 - [Farcaster Project](https://github.com/farcaster-project) - Farcaster is a cross-chain atomic swap protocol and implementation who allows to exchange Bitcoin and Monero in a peer-to-peer manner with anyone running a Farcaster node.
 
 
 ## Merchants
 
-- [Monerica](https://github.com/monerica-project/monerica) ([Website](https://monerica.com/)) - A directory for a Monero circular economy
+- [Monerica](https://monerica.com/) - A directory for a Monero circular economy
 - [XMRBazaar](https://xmrbazaar.com/) - P2P marketplace that accepts Monero. It is similar to MoneroMarket and Facebook Marketplace. Messenger for buyer/seller is included with PGP encryption. (still in beta)
-- [PikaSim](https://pikasim.com) - Privacy-focused eSIM provider for 170+ countries. No account required, no ID upload, no email needed for crypto. Accepts Monero, Bitcoin, and Lightning via self-hosted BTCPay Server.
 
 ## Point of Sale
 
@@ -161,13 +153,12 @@ A curated list of awesome Monero libraries, tools, and resources. More focused o
 - [MoneroPay](https://github.com/moneropay/moneropay) - A Monero payment gateway for WooCommerce
 - [Monero Merchant](https://github.com/RuiSiang/monero-merchant) - Monero Merchant is a RESTful API wrapper for the official Monero wallet RPC. This project is mainly for merchants who hope to accept Monero as payment.
 - [AcceptXMR](https://github.com/busyboredom/acceptxmr) - This library aims to provide a simple, reliable, and efficient means to track monero payments.
-- [HotShop](https://github.com/CryptoGrampy/HotShop) - An Ephemeral, browser-based, no-private-key, no-server Point of Sale for receiving and validating Monero payments. Repository is archived :(
 - [monerochan-merchant-rpc](https://github.com/spirobel/monerochan-merchant-rpc) - A tool to accept digital cash at your online business.
 
 ## Future development
 
 - [Seraphis](https://github.com/UkoeHB/Seraphis) - Seraphis is a privacy-focused transaction protocol for p2p electronic cash systems (e.g. cryptocurrencies).
-- [Full chain membership proofs](https://github.com/kayabaNerve/fcmp-plus-plus) - FCMP++, shortened from FCMP+SA+L, short for Full-Chain Membership Proofs + Spend Authorization + Linkability, are an accomplishment of full-set privacy over the existing RingCT protocol used within Monero.
+- [Full chain membership proofs](https://github.com/monero-oxide/monero-oxide/tree/fcmp%2B%2B) - FCMP++, shortened from FCMP+SA+L, short for Full-Chain Membership Proofs + Spend Authorization + Linkability, are an accomplishment of full-set privacy over the existing RingCT protocol used within Monero. Implementation now lives on the `fcmp++` branch of [monero-oxide](https://github.com/monero-oxide/monero-oxide).
 - [CARROT](https://github.com/jeffro256/carrot/blob/master/carrot.md) - Cryptonote Address on Rerandomizable-RingCT-Output Transactions: an addressing protocol for the upcoming FCMP++ upgrade to Monero.
 - [Cuprate](https://github.com/Cuprate/cuprate) - an upcoming experimental, modern & secure monero node. Written in Rust.
 - [wallet3](https://github.com/seraphis-migration/wallet3) - Info and discussions about a hypothetical full 'wallet2' rewrite from scratch 
