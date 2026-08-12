@@ -111,6 +111,7 @@ A curated list of awesome Monero libraries, tools, and resources. More focused o
 
 - [Onion Monero Blockchain Explorer](https://github.com/moneroexamples/onion-monero-blockchain-explorer) - A Monero blockchain explorer.
 - [Moneroblock](https://github.com/duggavo/MoneroBlock) - Decentralized and trustless Monero block explorer
+- [monerometrics](https://monerometrics.net) - Reorg-aware Monero network observatory: chain reorganizations, orphan blocks, mining-pool centralization (Nakamoto coefficient) and a chain fork visualizer, with a free public API.
 
 ## Built with Monero
 
