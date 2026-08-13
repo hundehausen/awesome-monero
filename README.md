@@ -56,26 +56,52 @@ A curated list of awesome Monero libraries, tools, and resources. More focused o
 - [ANONERO](https://anonero.io/) - Hardened wallet with enforced privacy & security for Android (clearnet redirects to onion)
 - [MYSU](http://rk63tc3isr7so7ubl6q7kdxzzws7a7t6s467lbtw2ru3cwy6zu6w4jad.onion/) - A no-bullshit, pure Monero wallet suitable for both newcomers and experienced users. For Android. (onion link)
 
-### Hardware Wallets
-
-- [passport2-monero](https://github.com/mjg-foundation/passport2-monero) - v2.x.x series of firmware for Passport, rebuilt for monero 
-- [MoneroSigner](https://github.com/Monero-HackerIndustrial/MoneroSigner) - Seedsigner Monero fork. Use an air-gapped Raspberry Pi Zero to sign monero transactions!
-- [Monero Ledger App](https://github.com/LedgerHQ/app-monero) - Monero wallet application for Ledger Nano S and Nano X. (avoid buying Ledger products)
-
 ### Other Wallets
 - [Monero Subscriptions Wallet](https://github.com/lukeprofits/Monero_Subscriptions_Wallet) - A Monero wallet that automatically pays subscriptions.
 
 ## Libraries
 
-- [monero-ts](https://github.com/woodser/monero-ts) - Monero TypeScript library for Node.js and browsers
+### C
+
+- [monero_c](https://github.com/MrCyjaneK/monero_c) - C-compatible wrapper around wallet2_api.h for embedding Monero wallets (used by Flutter/Dart wallets).
+
+### C++
+
+- [lwsf](https://github.com/vtnerd/lwsf) - C++ client for Monero light-wallet (MyMonero-compatible) servers that implements wallet2_api.h.
+- [monero-cpp](https://github.com/woodser/monero-cpp) - C++ library for using Monero
+
+### Go
+
+- [go-monero](https://github.com/duggavo/go-monero) - A multi-platform Go library for interacting with Monero servers either on clearnet or not, supporting daemon and wallet RPC, p2p commands and ZeroMQ.
+- [go-monero-rpc-client](https://github.com/omani/go-monero-rpc-client) - A go client for the Monero wallet and daemon RPC
+
+### Java
+
+- [monero-java](https://github.com/woodser/monero-java) - Java library for using Monero
+
+### Kotlin
+
+- [monero-wallet-sdk](https://github.com/mollyim/monero-wallet-sdk) - Kotlin Android SDK that embeds wallet2 in a sandboxed service and exposes an async API.
+
+### PHP
+
 - [monerophp](https://github.com/monero-integrations/monerophp) - A Monero library written in PHP by the Monero Integrations team.
 - [monero-rpc-php](https://github.com/refring/monero-rpc-php) - Monero daemon and wallet RPC client library written in modern PHP.
-- [monero-java](https://github.com/woodser/monero-java) - Java library for using Monero 
-- [monero-rs](https://github.com/monero-rs/monero-rs) - Library with support for de/serialization on block data structures and key/address generation and scanning related to Monero cryptocurrency.
+
+### Python
+
+- [monero-python](https://github.com/everoddandeven/monero-python) - Python library for wallet and daemon RPC, with bindings to Monero.
+
+### Rust
+
 - [libmonero](https://github.com/monumexyz/libmonero) - libmonero is a library for the Monero cryptocurrency written in Rust. It is designed to be fast, safe and easy to use.
-- [monero-cpp](https://github.com/woodser/monero-cpp) - C++ library for using Monero
-- [go-monero-rpc-client](https://github.com/omani/go-monero-rpc-client) - A go client for the Monero wallet and daemon RPC
-- [go-monero](https://github.com/duggavo/go-monero) - A multi-platform Go library for interacting with Monero servers either on clearnet or not, supporting daemon and wallet RPC, p2p commands and ZeroMQ.
+- [monero-oxide](https://github.com/monero-oxide/monero-oxide) - Family of Rust libraries implementing large parts of the Monero protocol (including FCMP++ work).
+- [monero-rpc-rs](https://github.com/monero-rs/monero-rpc-rs) - Async Rust client for Monero daemon and wallet RPC.
+- [monero-rs](https://github.com/monero-rs/monero-rs) - Library with support for de/serialization on block data structures and key/address generation and scanning related to Monero cryptocurrency.
+
+### TypeScript
+
+- [monero-ts](https://github.com/woodser/monero-ts) - Monero TypeScript library for Node.js and browsers
 
 ## Docker
 
