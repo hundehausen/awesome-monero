@@ -54,7 +54,9 @@ A curated list of awesome Monero libraries, tools, and resources. More focused o
 - [Monerujo](https://github.com/m2049r/xmrwallet) - Popular Android wallet
 - [Stack Wallet](https://github.com/cypherstack/stack_wallet) - A multicoin, cryptocurrency wallet 
 - [ANONERO](https://anonero.io/) - Hardened wallet with enforced privacy & security for Android (clearnet redirects to onion)
-- [MYSU](http://rk63tc3isr7so7ubl6q7kdxzzws7a7t6s467lbtw2ru3cwy6zu6w4jad.onion/) - A no-bullshit, pure Monero wallet suitable for both newcomers and experienced users. For Android. (onion link)
+- [Monfluo](https://codeberg.org/Monfluo/monfluo-android) - Pure Monero Android wallet, a maintained fork of Mysu (itself a Monerujo fork)
+- [Unstoppable](https://github.com/horizontalsystems/unstoppable-wallet-android) ([Website](https://unstoppable.money/)) - Multi-coin wallet with Monero support for iOS and Android
+- [Edge](https://github.com/EdgeApp/edge-react-gui) ([Website](https://edge.app/)) - Multi-coin light wallet with Monero support for iOS and Android
 
 ### Other Wallets
 - [Monero Subscriptions Wallet](https://github.com/lukeprofits/Monero_Subscriptions_Wallet) - A Monero wallet that automatically pays subscriptions.
@@ -132,7 +134,7 @@ A curated list of awesome Monero libraries, tools, and resources. More focused o
 
 - [Onion Monero Blockchain Explorer](https://github.com/moneroexamples/onion-monero-blockchain-explorer) - A Monero blockchain explorer.
 - [Moneroblock](https://github.com/duggavo/MoneroBlock) - Decentralized and trustless Monero block explorer
-- [monerometrics](https://monerometrics.net) - Reorg-aware Monero network observatory: chain reorganizations, orphan blocks, mining-pool centralization (Nakamoto coefficient) and a chain fork visualizer, with a free public API.
+- [monerometrics](https://github.com/nowi333/monerometrics) ([Website](https://monerometrics.net)) - Reorg-aware Monero network observatory: chain reorganizations, orphan blocks, mining-pool centralization (Nakamoto coefficient) and a chain fork visualizer, with a free public API.
 
 ## Built with Monero
 
