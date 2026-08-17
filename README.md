@@ -43,6 +43,7 @@ A curated list of awesome Monero libraries, tools, and resources. More focused o
 
 ### Desktop Wallets
 
+- [ARX](https://github.com/SeverianRoth/ARX) - Open-source Windows self-custody wallet with Monero support and an optional Privacy focused setup.
 - [Monero GUI Wallet](https://getmonero.org/downloads/) - Official desktop wallet
 - [Feather Wallet](https://github.com/feather-wallet/feather) ([Website](https://featherwallet.org/)) - Lightweight desktop wallet
 - [monero-wallet-generator](https://github.com/moneromooo-monero/monero-wallet-generator) - Self contained offline javacsript Monero wallet generator
