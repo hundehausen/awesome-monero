@@ -103,6 +103,7 @@ A curated list of awesome Monero libraries, tools, and resources. More focused o
 
 ### TypeScript
 
+- [crypto-address](https://github.com/hiddenswap/crypto-address) - Offline address checker for Monero standard, subaddress and integrated addresses (mainnet, stagenet, testnet), with the payment ID and public keys decoded, plus other networks. No network calls.
 - [monero-ts](https://github.com/woodser/monero-ts) - Monero TypeScript library for Node.js and browsers
 
 ## Docker
