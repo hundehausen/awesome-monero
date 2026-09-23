@@ -151,6 +151,7 @@ A curated list of awesome Monero libraries, tools, and resources. More focused o
 - [XMRig Proxy](https://github.com/xmrig/xmrig-proxy) - Stratum proxy with Web interface, support for several backup pools, and more.
 - [Docker-XMRig](https://github.com/metal3d/docker-xmrig) - Xmrig containeried to mine monero cryptocurrency
 - [XMRig for Android](https://github.com/XMRig-for-Android/xmrig-for-android) - ⛏ Mine Monero from your android device 
+- [Pasiv](https://pasiv.network) ([Open-core source](https://github.com/hash-rate/pasiv-core)) - One-button desktop app (macOS Apple Silicon, Windows, Linux) that runs XMRig on an idle CPU and has the pool pay your own address; no account. The fee engine and the headless `pasivd` daemon are GPL-3.0, the GUI is proprietary, and it takes a disclosed 4% time-sliced fee on Monero.
 
 ## Decentralized Exchanges
 
