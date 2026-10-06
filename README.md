@@ -15,6 +15,7 @@ A curated list of awesome Monero libraries, tools, and resources. More focused o
 - [Mining](#mining)
 - [Decentralized Exchanges](#decentralized-exchanges)
 - [Atomic Swaps](#atomic-swaps)
+- [Instant Exchanges](#instant-exchanges)
 - [Merchants](#merchants)
 - [Point of Sale](#point-of-sale)
 - [Future development](#future-development)
@@ -168,6 +169,10 @@ A curated list of awesome Monero libraries, tools, and resources. More focused o
 - [BCH-XMR-SWAP PoC](https://github.com/PHCitizen/bch-xmr-swap) - A proof of concept for a Bitcoin Cash to Monero atomic swap
 - [Farcaster Project](https://github.com/farcaster-project) - Farcaster is a cross-chain atomic swap protocol and implementation who allows to exchange Bitcoin and Monero in a peer-to-peer manner with anyone running a Farcaster node.
 
+
+## Instant Exchanges
+
+- [VeilSwap](https://veilswap.io/) - Privacy-first instant cross-chain swap aggregator with Monero and Zcash first-class support. No account, no KYC, no logs — orders are just URLs. Fixed-rate quotes with all-in fees shown upfront.
 
 ## Merchants
 
