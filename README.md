@@ -175,6 +175,7 @@ A curated list of awesome Monero libraries, tools, and resources. More focused o
 - [Monerica](https://monerica.com/) - A directory for a Monero circular economy
 - [XMRBazaar](https://xmrbazaar.com/) - P2P marketplace that accepts Monero. It is similar to MoneroMarket and Facebook Marketplace. Messenger for buyer/seller is included with PGP encryption. (still in beta)
 
+- [arnoldnakamura](https://arnoldnakamura.codeberg.page) - P2P XMR↔EUR trading, Cash by Mail (EU-wide) + Face-to-Face (SW Germany). 683+ completed trades (formerly chingchongfalung on LocalMonero/AgoraDesk).
 ## Point of Sale
 
 - [Kasisto](https://github.com/amiuhle/kasisto) - A Monero Point of Sale payment system 
