@@ -57,6 +57,7 @@ A curated list of awesome Monero libraries, tools, and resources. More focused o
 - [Monfluo](https://codeberg.org/Monfluo/monfluo-android) - Pure Monero Android wallet, a maintained fork of Mysu (itself a Monerujo fork)
 - [Unstoppable](https://github.com/horizontalsystems/unstoppable-wallet-android) ([Website](https://unstoppable.money/)) - Multi-coin wallet with Monero support for iOS and Android
 - [Edge](https://github.com/EdgeApp/edge-react-gui) ([Website](https://edge.app/)) - Multi-coin light wallet with Monero support for iOS and Android
+- [Monero One](https://github.com/bwgh0/MoneroOne) ([Website](https://monero.one/), [Android](https://github.com/bwgh0/MoneroOne.Android)) - Open-source Monero wallet for iOS and Android, with Trezor Safe 7 support on iOS
 
 ### Other Wallets
 - [Monero Subscriptions Wallet](https://github.com/lukeprofits/Monero_Subscriptions_Wallet) - A Monero wallet that automatically pays subscriptions.
