@@ -138,6 +138,7 @@ A curated list of awesome Monero libraries, tools, and resources. More focused o
 
 ## Built with Monero
 
+- [monostr](https://monostr.com) ([Source](https://github.com/schmidt1024/monostr)) - Android nostr client where likes and reposts can carry private Monero tips. On [F-Droid](https://f-droid.org/packages/com.monostr.app/) and [Zapstore](https://zapstore.dev/apps/com.monostr.app).
 - [Nerostr](https://github.com/pluja/nerostr) - nostr paid relay, but with monero
 - [nullsink](https://nullsink.is) ([Source](https://github.com/nullsink/nullsink)) - Account-less proxy for frontier-model APIs, paid in Monero. Mint a token, fund a single-use subaddress, call the official SDKs. No accounts, no logs.
 - [Split My Lunch](https://github.com/AlexAnarcho/split-my-lunch) - Allow co-workers to split the lunch bill in Monero
