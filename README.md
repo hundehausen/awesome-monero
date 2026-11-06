@@ -150,6 +150,7 @@ A curated list of awesome Monero libraries, tools, and resources. More focused o
 - [Gupax](https://github.com/gupax-io/gupax) ([Website](https://gupax.io)) - A simple GUI for mining Monero on P2Pool, using XMRig.
 - [P2Pool](https://github.com/SChernykh/p2pool) - P2Pool is a decentralized Monero mining pool that works by creating a peer-to-peer network of miner nodes.
 - [XMRig Proxy](https://github.com/xmrig/xmrig-proxy) - Stratum proxy with Web interface, support for several backup pools, and more.
+- [XMRig Proxy Dashboard](https://github.com/wjc2821296948/XMRig-Proxy-Dashboard) - Lightweight, zero-backend web dashboard for real-time XMRig Proxy monitoring with multi-proxy profiles and browser-local credentials.
 - [Docker-XMRig](https://github.com/metal3d/docker-xmrig) - Xmrig containeried to mine monero cryptocurrency
 - [XMRig for Android](https://github.com/XMRig-for-Android/xmrig-for-android) - ⛏ Mine Monero from your android device 
 
