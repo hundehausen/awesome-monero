@@ -60,6 +60,7 @@ A curated list of awesome Monero libraries, tools, and resources. More focused o
 
 ### Other Wallets
 - [Monero Subscriptions Wallet](https://github.com/lukeprofits/Monero_Subscriptions_Wallet) - A Monero wallet that automatically pays subscriptions.
+- [Monero Web Wallet](https://github.com/AMLChecker/monero-web-wallet) - Self-hosted, non-custodial web wallet driven by the official monero-wallet-rpc, with a fee review step before any transaction is broadcast.
 
 ## Libraries
 
