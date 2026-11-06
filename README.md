@@ -173,6 +173,7 @@ A curated list of awesome Monero libraries, tools, and resources. More focused o
 ## Merchants
 
 - [Monerica](https://monerica.com/) - A directory for a Monero circular economy
+- [VaelMail](https://vaelmail.com/) - Privacy-first webmail authenticated with 16-digit account keys and native Monero checkout for outbound sending and custom domains. Based in Sweden.
 - [XMRBazaar](https://xmrbazaar.com/) - P2P marketplace that accepts Monero. It is similar to MoneroMarket and Facebook Marketplace. Messenger for buyer/seller is included with PGP encryption. (still in beta)
 
 ## Point of Sale
