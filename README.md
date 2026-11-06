@@ -174,6 +174,7 @@ A curated list of awesome Monero libraries, tools, and resources. More focused o
 
 - [Monerica](https://monerica.com/) - A directory for a Monero circular economy
 - [XMRBazaar](https://xmrbazaar.com/) - P2P marketplace that accepts Monero. It is similar to MoneroMarket and Facebook Marketplace. Messenger for buyer/seller is included with PGP encryption. (still in beta)
+- [AltQuick](https://altquick.com/market/monero-bitcoin/) - BTC-paired order-book exchange running since 2015 with an XMR/BTC market; no ID verification.
 
 ## Point of Sale
 
