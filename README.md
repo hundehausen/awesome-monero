@@ -183,6 +183,7 @@ A curated list of awesome Monero libraries, tools, and resources. More focused o
 - [Monero Merchant](https://github.com/RuiSiang/monero-merchant) - Monero Merchant is a RESTful API wrapper for the official Monero wallet RPC. This project is mainly for merchants who hope to accept Monero as payment.
 - [AcceptXMR](https://github.com/busyboredom/acceptxmr) - This library aims to provide a simple, reliable, and efficient means to track monero payments.
 - [monerochan-merchant-rpc](https://github.com/spirobel/monerochan-merchant-rpc) - A tool to accept digital cash at your online business.
+- [Manatee API](https://manatee-api.io/) - Hosted, non-custodial Monero payment API with signed webhooks and a WooCommerce plugin.
 
 ## Future development
 
