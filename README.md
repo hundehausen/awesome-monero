@@ -60,6 +60,7 @@ A curated list of awesome Monero libraries, tools, and resources. More focused o
 
 ### Other Wallets
 - [Monero Subscriptions Wallet](https://github.com/lukeprofits/Monero_Subscriptions_Wallet) - A Monero wallet that automatically pays subscriptions.
+- [TitanWallet](https://swaptitan.net/wallet) - Non-custodial web wallet (PWA) for Monero, Solana, EVM and Bitcoin. XMR runs client-side (monero-ts), synced via relay nodes so public nodes don't see the user's IP; 25-word seed works in Cake/Feather. (Beta)
 
 ## Libraries
 
