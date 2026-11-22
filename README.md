@@ -173,6 +173,7 @@ A curated list of awesome Monero libraries, tools, and resources. More focused o
 ## Merchants
 
 - [Monerica](https://monerica.com/) - A directory for a Monero circular economy
+- [Open for Crypto](https://openforcrypto.com/search?coins%5B%5D=xmr&sort=popular) - Directory of online vendors that take Monero, with crypto-only vendors marked apart
 - [XMRBazaar](https://xmrbazaar.com/) - P2P marketplace that accepts Monero. It is similar to MoneroMarket and Facebook Marketplace. Messenger for buyer/seller is included with PGP encryption. (still in beta)
 
 ## Point of Sale
